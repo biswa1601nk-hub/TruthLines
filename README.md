@@ -1,0 +1,2 @@
+# TruthLines
+Decentralized news portal
